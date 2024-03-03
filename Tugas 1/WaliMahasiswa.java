@@ -1,3 +1,8 @@
+// Nama         : Ilham azrinargana Pulungan
+// NIM          : 24060122140130
+// Tanggal      : 03-03-2024
+// Deskripsi    : Kelas yang berisi wali mahasiswa
+
 public class WaliMahasiswa {
 
     private String nama;

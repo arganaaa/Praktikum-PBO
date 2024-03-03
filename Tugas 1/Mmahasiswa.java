@@ -1,3 +1,7 @@
+// Nama         : Ilham azrinargana Pulungan
+// NIM          : 24060122140130
+// Tanggal      : 03-03-2024
+// Deskripsi    : Kelas yang berisi main program dari mahasiswa dan wali mahasiswa
 public class Mmahasiswa {
     public static void main(String[] args) {
 
