@@ -4,7 +4,6 @@
  */
 public class MPerpus {
     public static void main(String[] args) {
-        // Instansiasi kelas anggota dan buku
         Anggota anggota = new Anggota("Ilham azrinargana Pulungan");
         Buku buku1 = new Buku("Danau toba");
         Buku buku2 = new Buku("Merapi");
